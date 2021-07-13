@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "756707987953",
+    "firebase_url": "https://biostep-3ef05.firebaseio.com",
+    "project_id": "biostep-3ef05",
+    "storage_bucket": "biostep-3ef05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756707987953:android:adbb30d2e03587d5d7f450",
+        "android_client_info": {
+          "package_name": "com.example.biostep"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756707987953-uic279fneu5e7efiidv76odu9npvedec.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.biostep",
+            "certificate_hash": "940cb0412fff6d14b480076853ec22ecb85ee33f"
+          }
+        },
+        {
+          "client_id": "756707987953-te82r49vf76nrhv4989t31rll7mnbeq9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy_qC6E9-oP0T-UNNAv-XtGycRTtGvC0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756707987953-te82r49vf76nrhv4989t31rll7mnbeq9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
